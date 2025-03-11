@@ -1,0 +1,1 @@
+#Manul for every AI model
